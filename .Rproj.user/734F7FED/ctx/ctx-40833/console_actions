@@ -1,0 +1,20 @@
+{
+    "type": [
+        2,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2
+    ],
+    "data": [
+        "\nR version 4.3.2 (2023-10-31 ucrt) -- \"Eye Holes\"\nCopyright (C) 2023 The R Foundation for Statistical Computing\nPlatform: x86_64-w64-mingw32/x64 (64-bit)\n\nR is free software and comes with ABSOLUTELY NO WARRANTY.\nYou are welcome to redistribute it under certain conditions.\nType 'license()' or 'licence()' for distribution details.\n\nR is a collaborative project with many contributors.\nType 'contributors()' for more information and\n'citation()' on how to cite R or R packages in publications.\n\nType 'demo()' for some demos, 'help()' for on-line help, or\n'help.start()' for an HTML browser interface to help.\nType 'q()' to quit R.\n\n",
+        "> ",
+        "renv::snapshot()",
+        "It looks like you've called renv::snapshot() in a project that hasn't been activated yet.\nHow would you like to proceed? \n\n1: Activate the project and use the project library.\n2: Do not activate the project and use the current library paths.\n3: Cancel and resolve the situation another way.\n\n",
+        "Sélection : ",
+        "1",
+        "\nRestarting R session...\n\n"
+    ]
+}
